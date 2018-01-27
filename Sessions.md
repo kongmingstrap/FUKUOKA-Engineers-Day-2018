@@ -33,15 +33,15 @@ laprasDrum
 
 ### タイトル
 
-タイトルの仮
+AWSのサービスを使ったサーバーレスアプリケーションの構築
 
 ### 登壇者
 
-登壇者の仮
+田中　孝明[@kongmingtrap](https://twitter.com/kongmingtrap)
 
 ### 概要
 
-概要の仮
+AWS SAMやCloudFormationなどを利用したサーバーレスアプリケーションの構築について話します。
 
 ***
 

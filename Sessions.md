@@ -61,15 +61,17 @@ AWS SAMやCloudFormationなどを利用したサーバーレスアプリケー�
 
 ### タイトル
 
-タイトルの仮
+Azure Functionsでサーバーレスアプリケーション構築
 
 ### 登壇者
 
-登壇者の仮
+松村 亮輔[@rxpaki](https://twitter.com/rxpaki)
 
 ### 概要
 
-概要の仮
+Azure Functionsやその他のAzureサービスを使った、サーバーレスアプリケーションの構築について話します。
+|дﾟ)ﾁﾗｯ
+Azure vs AWS
 
 ***
 

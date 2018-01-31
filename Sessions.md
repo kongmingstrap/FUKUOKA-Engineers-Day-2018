@@ -70,8 +70,6 @@ Azure Functionsでサーバーレスアプリケーション構築
 ### 概要
 
 Azure Functionsやその他のAzureサービスを使った、サーバーレスアプリケーションの構築について話します。
-|дﾟ)ﾁﾗｯ
-Azure vs AWS
 
 ***
 

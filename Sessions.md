@@ -89,15 +89,15 @@ Web Componentsの現在地
 
 ### タイトル
 
-タイトルの仮
+Visual Studio App Center 概要
 
 ### 登壇者
 
-登壇者の仮
+藤本 武
 
 ### 概要
 
-概要の仮
+Connect(); 2017 で GA（General Availability）となった Visual Studio App Center が提供する機能を簡単なデモを通して紹介します。
 
 ***
 

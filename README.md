@@ -8,8 +8,10 @@
     - とくになければ1/31にランダムに割り振ります
 
 ## セッション
-- [Sessions.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018/blob/master/Sessions.md)
-    - 20分枠・10分枠の方で、発表内容が決まっている方はこちらにプルリクしてください
+- 20分枠の方で、発表内容が決まっている方はこちらにプルリクしてください
+    - [Sessions_20min.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018/blob/master/Sessions_20min.md)
+- 10分枠の方で、発表内容が決まっている方はこちらにプルリクしてください
+    - [Sessions_10min.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018/blob/master/Sessions_10min.md)
 
 ## LTについて
 - [LTSessions.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018/blob/master/LTSessions.md)

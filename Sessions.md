@@ -75,15 +75,15 @@ Azure Functionsやその他のAzureサービスを使った、サーバーレス
 
 ### タイトル
 
-タイトルの仮
+ipa解析論2
 
 ### 登壇者
 
-登壇者の仮
+杉本　いたる[@itaru_sugimoto](https://twitter.com/itaru_sugimoto)
 
 ### 概要
 
-概要の仮
+iOSアプリケーションバイナリであるipaファイルとはどういった情報をもったファイルなのかについて話します。
 
 ***
 

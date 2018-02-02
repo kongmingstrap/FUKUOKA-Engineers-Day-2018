@@ -103,15 +103,15 @@ Connect(); 2017 で GA（General Availability）となった Visual Studio App C
 
 ### タイトル
 
-タイトルの仮
+氷河を目指してたのに、気づいたらCLIで毛刈りを始めてた話
 
 ### 登壇者
 
-登壇者の仮
+夏目 祐樹[@sinofseven](https://twitter.com/sinofseven)
 
 ### 概要
 
-概要の仮
+Amazon Glacierでデータのバックアップを取ろうと思ってたはずなのに、気づいたらヤクの毛刈りをしていた話です。
 
 ***
 

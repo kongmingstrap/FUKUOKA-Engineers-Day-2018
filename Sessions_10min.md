@@ -89,15 +89,16 @@ Androidのコアな技術を利用し、
 
 ### タイトル
 
-タイトルの仮
+About Turi Create 強化版
 
 ### 登壇者
 
-登壇者の仮
+新見 晃平 [@gupuru](https://twitter.com/gupuru) 
 
 ### 概要
 
-概要の仮
+先日、Appleが公開した機械学習ライブラリのTuri Createについて話します。
+Turi Createを使ってレコメンドシステムと画像認識を作ったので、こちらを中心にいろいろ話そうと思います(｀・ω・´)
 
 ***
 

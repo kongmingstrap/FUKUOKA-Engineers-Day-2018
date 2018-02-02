@@ -17,7 +17,7 @@
 | 13:25 - 13:35 | 渋田　達也 [@mya_ake](https://twitter.com/mya_ake) | Vue.jsで作るアクセシビリティコンポーネント |
 | 13:35 - 13:45 | 長峰　慶三 [@KzoNag](https://twitter.com/KzoNag) | ARKit+Vuforia+UNETでマルチプレイAR |
 | 13:45 - 14:00 |  | 休憩 |
-| 14:00 - 14:10 | 未定 | 10分枠 - 7 |
+| 14:00 - 14:10 | 新見 晃平 [@gupuru](https://twitter.com/gupuru) | About Turi Create 強化版 |
 | 14:10 - 14:20 | 未定 | 10分枠 - 8 |
 | 14:20 - 14:40 | laprasDrum | Ruboty と自作 Golang ツールで朝会のタスク整理を時間短縮してる話 |
 | 14:40 - 14:55 |  | 休憩 |

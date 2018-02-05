@@ -18,7 +18,7 @@
 | 13:35 - 13:45 | 長峰　慶三 [@KzoNag](https://twitter.com/KzoNag) | ARKit+Vuforia+UNETでマルチプレイAR |
 | 13:45 - 14:00 |  | 休憩 |
 | 14:00 - 14:10 | 新見 晃平 [@gupuru](https://twitter.com/gupuru) | About Turi Create 強化版 |
-| 14:10 - 14:20 | _yoshih_ | 10分枠 - 8 |
+| 14:10 - 14:20 | [yoshih](https://twitter.com/_yoshih_) | ネイティブ拡張を使わずにブラウザ・Node.jsでC/C++実装のライブラリを使う |
 | 14:20 - 14:40 | laprasDrum | Ruboty と自作 Golang ツールで朝会のタスク整理を時間短縮してる話 |
 | 14:40 - 14:55 |  | 休憩 |
 | 14:55 - 15:15 | 井上　信之 | インフラ系の仕事してるけどフリーソフトを作ってみたよ♪ |

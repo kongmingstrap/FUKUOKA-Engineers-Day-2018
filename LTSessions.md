@@ -12,11 +12,11 @@ GraphcoolとVue.jsでちょっとしたサービスを作ってみた話
 
 ### タイトル
 
-タイトルの仮
+娘が生まれたので親に写真共有するアプリをWeb Componentsで作った話
 
 ### 登壇者
 
-登壇者の仮
+川端慧[@kwbtsts](https://twitter.com/kwbtsts)
 
 ***
 

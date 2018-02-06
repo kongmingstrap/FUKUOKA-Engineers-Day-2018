@@ -14,7 +14,7 @@
 | 12:05 - 13:05 |  | 休憩 |
 | 13:05 - 13:15 | 尾田 博仁 | サーバーサイドエンジニアがモバイルアプリを作った話 |
 | 13:15 - 13:25 | 堤　大輔 | Androidでカモフラージュアプリを作ってみた |
-| 13:25 - 13:35 | 渋田　達也 [@mya_ake](https://twitter.com/mya_ake) | Vue.jsで作るアクセシビリティコンポーネント |
+| 13:25 - 13:35 | 渋田　達也 [@mya_ake](https://twitter.com/mya_ake) | Progressive Web Apps Overview |
 | 13:35 - 13:45 | 長峰　慶三 [@KzoNag](https://twitter.com/KzoNag) | ARKit+Vuforia+UNETでマルチプレイAR |
 | 13:45 - 14:00 |  | 休憩 |
 | 14:00 - 14:10 | 新見 晃平 [@gupuru](https://twitter.com/gupuru) | About Turi Create 強化版 |
@@ -28,5 +28,10 @@
 | 16:10 - 16:30 | 平川 剛一 | 20分枠 - 9 |
 | 16:45 - 17:00 |  | 休憩 |
 | 17:00 - 17:20 | 未定 | 20分枠 - 10 |
-| 17:20 - 17:50 |  | LT |
+| 17:20 - 17:25 | 宮末 啓吾@foxtrackjp | GraphcoolとVue.jsでちょっとしたサービスを作ってみた話 |
+| 17:25 - 17:30 | 川端慧[@kwbtsts](https://twitter.com/kwbtsts) | 娘が生まれたので親に写真共有するアプリをWeb Componentsで作った話 |
+| 17:30 - 17:35 | 未定 | LT-3 |
+| 17:35 - 17:40 | 未定 | LT-4 |
+| 17:40 - 17:45 | 未定 | LT-5 |
+| 17:45 - 17:50 | 未定 | LT-6 |
 | 17:50 - 18:00 | 松村 亮輔[@rxpaki](https://twitter.com/rxpaki) | クロージング |

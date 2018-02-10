@@ -22,11 +22,11 @@ GraphcoolとVue.jsでちょっとしたサービスを作ってみた話
 
 ### タイトル
 
-タイトルの仮
+アウトプット効率化
 
 ### 登壇者
 
-登壇者の仮
+主計 義高[@nesskazu](https://twitter.com/nesskazu)
 
 ***
 
